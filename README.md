@@ -30,7 +30,7 @@ A lightweight, fast console utility for Windows 11 to interactively list, sort, 
 Open **PowerShell** and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/reynoc/agys/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/ReynoTD/agy-script/main/install.ps1 | iex
 ```
 
 > **What this does:**
@@ -66,7 +66,7 @@ Install-Script -Name agys -Scope CurrentUser
 To completely remove `agys` and clean your `PATH`:
 
 ```powershell
-irm https://raw.githubusercontent.com/reynoc/agys/main/uninstall.ps1 | iex
+irm https://raw.githubusercontent.com/ReynoTD/agy-script/main/uninstall.ps1 | iex
 ```
 
 _(Or run `.\uninstall.ps1` locally)._
