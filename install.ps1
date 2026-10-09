@@ -12,7 +12,7 @@
 
 [CmdletBinding()]
 param(
-    [string]$RepoBaseUrl = "https://raw.githubusercontent.com/reynoc/agys/main",
+    [string]$RepoBaseUrl = "https://raw.githubusercontent.com/ReynoTD/agy-script/main",
     [switch]$InPlace
 )
 
